@@ -168,3 +168,20 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.img-ag {
+    padding-top: 20px;
+}
+
+.ag-footer {
+    padding-top: 30px;
+}
+
+.intro-ag {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/agbck.jpg) no-repeat center center;
+    background-size: cover;
+}
